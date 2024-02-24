@@ -1,3 +1,4 @@
+from .aiplayer import AiPlayer
 from .background import Background
 from .entity import Entity
 from .floor import Floor
